@@ -122,7 +122,6 @@ ENV/
 env.bak/
 venv.bak/
 .idea/
-.vscode/
 
 # Spyder project settings
 .spyderproject
@@ -141,3 +140,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
